@@ -29,7 +29,10 @@ NumPy – Numerical computing
 - Jupyter Notebook
    - For writing and running Python code in an interactive format, combining code, visuals, and narrative.
 
-
+``` SQL
+SELECT A,B,C
+WHERE A> 45
+```
 
 
 
