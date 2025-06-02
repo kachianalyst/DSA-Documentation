@@ -35,7 +35,7 @@ WHERE A> 45
 ```
 ### Analysis
 
-DSA SQL scripts 3.txt
+
 
 
 
