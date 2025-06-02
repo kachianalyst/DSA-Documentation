@@ -33,7 +33,6 @@ NumPy – Numerical computing
 SELECT A,B,C
 WHERE A> 45
 ```
-
-
+#
 
 
