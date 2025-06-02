@@ -33,6 +33,15 @@ NumPy – Numerical computing
 SELECT A,B,C
 WHERE A> 45
 ```
-#
+### Analysis
+
+DSA SQL scripts 3.txt
+
+
+
+
+
+
+
 
 
